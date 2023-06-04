@@ -40,6 +40,11 @@ After loading the module, a wireless network interface named __Realtek 802.11n W
 
 ### Installing
 
+## FEDORA
+$ sudo dnf groupinstall "Development Tools"
+
+
+
 Installing the driver is simply a matter of copying the built module
 into the correct location and updating module dependencies using `depmod`:
 
