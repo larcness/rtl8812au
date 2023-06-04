@@ -73,6 +73,9 @@ Eventually remove from DKMS with:
 $ sudo make dkms_remove
 ```
 
+### TESTED WORKING DEVICE
+- TP-Link Archer T2U Nano (Fedora 38 kernel 6.3.4-201.fc38.x86_64)
+
 ### References
 
 - D-Link DWA-171
